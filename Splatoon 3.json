@@ -6,7 +6,9 @@
       "goal": "Beat DJ Octavio",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "Beat DJ Octavio in the Cater",
       "icons": [],
@@ -16,7 +18,9 @@
       "goal": "Reach the Future Utopia Island",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -24,9 +28,16 @@
     },
     {
       "goal": "Obtain {{X}} Upgrade Points",
-      "range": [5, 10, 15, 20],
+      "range": [
+        5,
+        10,
+        15,
+        20
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -34,9 +45,15 @@
     },
     {
       "goal": "Complete {{X}} Blue Balloon Challenges ",
-      "range": [1, 2, 3, 999, 999],
+      "range": [
+        1,
+        2,
+        3
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -44,9 +61,17 @@
     },
     {
       "goal": "Beat {{X}} Gold Kettles",
-      "range": [5, 10, 15, 20, 999, 999],
+      "range": [
+        5,
+        10,
+        15,
+        20
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "Beat levels with a golden kettle entrance",
       "icons": [],
@@ -54,9 +79,16 @@
     },
     {
       "goal": "Beat {{X}} Silver Kettles",
-      "range": [10, 15, 20, 999, 999],
+      "range": [
+        10,
+        15,
+        20
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -64,9 +96,15 @@
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 5",
-      "range": [3, 5],
+      "range": [
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "fuzzy_ooze"],
+      "board_categories": [
+        "alterna",
+        "fuzzy_ooze"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -74,9 +112,15 @@
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 6",
-      "range": [3, 5],
+      "range": [
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "fuzzy_ooze"],
+      "board_categories": [
+        "alterna",
+        "fuzzy_ooze"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -84,9 +128,15 @@
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 4",
-      "range": [3, 5],
+      "range": [
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "fuzzy_ooze"],
+      "board_categories": [
+        "alterna",
+        "fuzzy_ooze"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -94,9 +144,15 @@
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 3",
-      "range": [3, 5],
+      "range": [
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "fuzzy_ooze"],
+      "board_categories": [
+        "alterna",
+        "fuzzy_ooze"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -104,9 +160,15 @@
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 2",
-      "range": [3, 5],
+      "range": [
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "fuzzy_ooze"],
+      "board_categories": [
+        "alterna",
+        "fuzzy_ooze"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -114,9 +176,15 @@
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 1",
-      "range": [3, 5],
+      "range": [
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "fuzzy_ooze"],
+      "board_categories": [
+        "alterna",
+        "fuzzy_ooze"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -124,9 +192,16 @@
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters",
-      "range": [5, 10, 15, 999],
+      "range": [
+        5,
+        10,
+        15
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "fuzzy_ooze"],
+      "board_categories": [
+        "alterna",
+        "fuzzy_ooze"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -134,9 +209,23 @@
     },
     {
       "goal": "Have a total of {{X}} Power Eggs",
-      "range": [1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10000],
+      "range": [
+        1000,
+        2000,
+        3000,
+        4000,
+        5000,
+        6000,
+        7000,
+        8000,
+        9000,
+        10000
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "collectables"],
+      "board_categories": [
+        "alterna",
+        "collectables"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -144,9 +233,16 @@
     },
     {
       "goal": "Beat {{X}} Kettles with a 40+ Power Egg Fee",
-      "range": [2, 3, 4, 999, 999],
+      "range": [
+        2,
+        3,
+        4
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "collectables"],
+      "board_categories": [
+        "alterna",
+        "collectables"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -154,9 +250,16 @@
     },
     {
       "goal": "Beat {{X}} Special Only Kettles",
-      "range": [1, 2, 3, 999, 999],
+      "range": [
+        1,
+        2,
+        3
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -164,9 +267,15 @@
     },
     {
       "goal": "Beat {{X}} Kettles with all 3 weapons",
-      "range": [3, 4, 999, 999],
+      "range": [
+        3,
+        4
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "Beat levels using all 3 weapon options",
       "icons": [],
@@ -176,7 +285,9 @@
       "goal": "Complete any Alterna Log",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -186,7 +297,9 @@
       "goal": "Reach the Happiness Research Lab",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -196,7 +309,9 @@
       "goal": "Reach the Eco-Forest Treehills",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -206,7 +321,9 @@
       "goal": "Reach the Landfill Dreamland",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -216,7 +333,9 @@
       "goal": "Reach the Cryogenic Hopetown",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -226,7 +345,9 @@
       "goal": "Reach the Cozy & Safe Factory",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -234,9 +355,16 @@
     },
     {
       "goal": "Beat {{X}} Kettles in Happiness Research Lab",
-      "range": [1, 2, 3, 999],
+      "range": [
+        1,
+        2,
+        3
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -244,9 +372,15 @@
     },
     {
       "goal": "Beat {{X}} Kettles in Eco Forest Treehills",
-      "range": [3, 5],
+      "range": [
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -254,9 +388,16 @@
     },
     {
       "goal": "Beat {{X}} Kettles in Landfill Dreamland",
-      "range": [5, 6, 7],
+      "range": [
+        5,
+        6,
+        7
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -264,9 +405,16 @@
     },
     {
       "goal": "Beat {{X}} Kettles Cryogenic Hopetown",
-      "range": [2, 3, 4],
+      "range": [
+        2,
+        3,
+        4
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -274,9 +422,16 @@
     },
     {
       "goal": "Beat {{X}} Kettles in Cozy & Safe Factory",
-      "range": [3, 4, 5],
+      "range": [
+        3,
+        4,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -284,9 +439,17 @@
     },
     {
       "goal": "Beat {{X}} Kettles in Future Utopia Island",
-      "range": [5, 7, 8, 9],
+      "range": [
+        5,
+        7,
+        8,
+        9
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -294,9 +457,20 @@
     },
     {
       "goal": "Beat {{X}} Levels",
-      "range": [5, 10, 15, 20, 25, 30, 35],
+      "range": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "Complete any kettle types",
       "icons": [],
@@ -304,9 +478,16 @@
     },
     {
       "goal": "Find {{X}} Loot anchors ",
-      "range": [10, 20, 30],
+      "range": [
+        10,
+        20,
+        30
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "collectables"],
+      "board_categories": [
+        "alterna",
+        "collectables"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -314,9 +495,16 @@
     },
     {
       "goal": "Find {{X}} Gold Records",
-      "range": [3, 5, 8],
+      "range": [
+        3,
+        5,
+        8
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "collectables"],
+      "board_categories": [
+        "alterna",
+        "collectables"
+      ],
       "line_categories": [],
       "tooltip": "Collect Gold Records from any area",
       "icons": [],
@@ -324,9 +512,16 @@
     },
     {
       "goal": "Obtain {{X}} Sunken Scrolls",
-      "range": [3, 5, 10, 12],
+      "range": [
+        3,
+        5,
+        10,
+        12
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -334,9 +529,16 @@
     },
     {
       "goal": "Obtain {{X}} Sardinium",
-      "range": [3, 5, 10],
+      "range": [
+        3,
+        5,
+        10
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna", "collectables"],
+      "board_categories": [
+        "alterna",
+        "collectables"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -344,9 +546,20 @@
     },
     {
       "goal": "Weapon Upgrades x{{X}}",
-      "range": [1, 2, 3, 4, 5, 6, 7, 8],
+      "range": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "Get {{X}} Main and/or Sub weapon upgrades ",
       "icons": [],
@@ -354,9 +567,15 @@
     },
     {
       "goal": "Any Smallfry Upgrades x{{X}}",
-      "range": [1, 2, 3],
+      "range": [
+        1,
+        2,
+        3
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -364,9 +583,14 @@
     },
     {
       "goal": "\"Sensor\" Upgrades x{{X}}",
-      "range": [1, 2],
+      "range": [
+        1,
+        2
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -374,9 +598,14 @@
     },
     {
       "goal": "\"Suit Recovery Up\" Upgrades x{{X}}",
-      "range": [1, 2],
+      "range": [
+        1,
+        2
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -384,9 +613,14 @@
     },
     {
       "goal": "\"Splat Bombs\" Upgrades x{{X}}",
-      "range": [1, 2],
+      "range": [
+        1,
+        2
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -396,7 +630,9 @@
       "goal": "\"Smallfry Ink Saver\" Upgrade",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -404,9 +640,14 @@
     },
     {
       "goal": "Ink-Tank Capacity Up x{{X}}",
-      "range": [1, 2],
+      "range": [
+        1,
+        2
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "Increase the Ink-Tank Capacity via Hero Gear",
       "icons": [],
@@ -414,9 +655,14 @@
     },
     {
       "goal": "Ink Resistance Up x{{X}}",
-      "range": [1, 2],
+      "range": [
+        1,
+        2
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "Upgrade Ink Resistance via Hero Gear",
       "icons": [],
@@ -424,9 +670,14 @@
     },
     {
       "goal": "Hero Shot Fire Rate x{{X}}",
-      "range": [1, 2],
+      "range": [
+        1,
+        2
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "Increase the Hero Shot's fire rate via the Hero Gear",
       "icons": [],
@@ -434,9 +685,14 @@
     },
     {
       "goal": "\"Special Charge Up\" Upgrade x{{X}}",
-      "range": [1, 2],
+      "range": [
+        1,
+        2
+      ],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "Increase your Special Charge rate via Hero Gear",
       "icons": [],
@@ -446,7 +702,9 @@
       "goal": "\"Smallfry HP Up\" Upgrade",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna"],
+      "board_categories": [
+        "alterna"
+      ],
       "line_categories": [],
       "tooltip": "Increase Smallfry's HP via Hero Gear",
       "icons": [],
@@ -456,7 +714,10 @@
       "goal": "The Obscurest Chiaroscurist",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "Complete the Big Man Boss Battle",
       "icons": [],
@@ -466,7 +727,10 @@
       "goal": "The Pursuit of the Precious",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "Complete the Shiver Boss Battle",
       "icons": [],
@@ -476,7 +740,10 @@
       "goal": "The Future Stares Back",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "kettles"],
+      "board_categories": [
+        "alterna",
+        "kettles"
+      ],
       "line_categories": [],
       "tooltip": "Complete the Frye Boss Battle",
       "icons": [],
@@ -486,7 +753,10 @@
       "goal": "Level: Get to Know Alterna, Your Only Choice",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -496,7 +766,10 @@
       "goal": "Level: Octopods at Rest Tend to FLIP OUT!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -506,7 +779,10 @@
       "goal": "Level: Splat You on the Flip Side",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -516,7 +792,10 @@
       "goal": "Level: Doors, Doors, Doors! And More! (Doors)",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -526,7 +805,10 @@
       "goal": "Level: Relic Restoration",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -536,7 +818,10 @@
       "goal": "Level: Zip, Splat, and Jump",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -546,7 +831,10 @@
       "goal": "Level: Become One with Your Smallfry",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -556,7 +844,10 @@
       "goal": "Level: What Caused the Big Bang? YOU!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -566,7 +857,10 @@
       "goal": "Level: The String's the Thing",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -576,7 +870,10 @@
       "goal": "Level: Twirling, Swirling, Whirling",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -586,7 +883,10 @@
       "goal": "Level: Absorbency and You",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -596,7 +896,10 @@
       "goal": "Level: Soak It to Me!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -606,7 +909,10 @@
       "goal": "Level: Splitting Crosshairs",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -616,7 +922,10 @@
       "goal": "Level: Tread Heavily",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -626,7 +935,10 @@
       "goal": "Level: Getting Lost in Three Easy Steps",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -636,7 +948,10 @@
       "goal": "Level: The Ink-Conservation Project",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -646,7 +961,10 @@
       "goal": "Level: Switching Things Up",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -656,7 +974,10 @@
       "goal": "Level: Climbing the Corporate Splatter",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -666,7 +987,10 @@
       "goal": "Level: They Said We'd Have Flying Cars, and We Do! Kinda!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -676,7 +1000,10 @@
       "goal": "Level: Ink Wheels - Experience Tomorrow's Technology Today!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -686,7 +1013,10 @@
       "goal": "Level: Try Curling! Alterna's 11th Most Popular...",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -696,7 +1026,10 @@
       "goal": "Level: Conveyor-Belt Tightening",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -706,7 +1039,10 @@
       "goal": "Level: Time Trial and Errors",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -716,7 +1052,10 @@
       "goal": "Level: Propellered to Greatness",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -726,7 +1065,10 @@
       "goal": "Level: Octohoppers Don't Have a Sense of Humor",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -736,7 +1078,10 @@
       "goal": "Level: Let's Put a Pin in That",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -746,7 +1091,10 @@
       "goal": "Level: Splash the Block Party",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -756,7 +1104,10 @@
       "goal": "Level: Amusing a Bemused Muse",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -766,7 +1117,10 @@
       "goal": "Level: Those Aren't Birds",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -776,7 +1130,10 @@
       "goal": "Level: Charge Now, Splat Later",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -786,7 +1143,10 @@
       "goal": "Level: Easy Ride, Tricky Targets",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -796,7 +1156,10 @@
       "goal": "Level: Flying Worst Class",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -806,7 +1169,10 @@
       "goal": "Level: Ink Fast, Hotshot",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -816,7 +1182,10 @@
       "goal": "Level: Stamp 'Em Out",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -826,7 +1195,10 @@
       "goal": "Level: The Path to Perfect Penmanship",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -836,7 +1208,10 @@
       "goal": "Level: Trouble Round Every Corner",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -846,7 +1221,10 @@
       "goal": "Level: The Upside to Enemy Backsides",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -856,7 +1234,10 @@
       "goal": "Level: Uh-Oh! Too Many Snipers!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -866,7 +1247,10 @@
       "goal": "Level: Barriers! They've Got You Covered",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -876,7 +1260,10 @@
       "goal": "Level: A Compulsive Collector's Paradise",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -886,7 +1273,10 @@
       "goal": "Level: Zipping over the Neighborhood",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -896,7 +1286,10 @@
       "goal": "Level: One-Way Ride through Target Town",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -906,7 +1299,10 @@
       "goal": "Level: Making Waves with Splashdowns",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -916,7 +1312,10 @@
       "goal": "Level: Low Viz, High Risk",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -926,7 +1325,10 @@
       "goal": "Level: Shooter on Rails",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -936,7 +1338,10 @@
       "goal": "Level: Simply Zipcastic!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -946,7 +1351,10 @@
       "goal": "Level: You'll Go Far If You Shoot Far",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -956,7 +1364,10 @@
       "goal": "Level: Bet You Mist Us!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -966,7 +1377,10 @@
       "goal": "Level: Octarian Heights",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -976,7 +1390,10 @@
       "goal": "Level: Torture Tour",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -986,7 +1403,10 @@
       "goal": "Level: Conserve Ink - Splat Sustainably",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -996,7 +1416,10 @@
       "goal": "Level: The Enemy Ink Is Lava!",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1006,7 +1429,10 @@
       "goal": "Level: Keep It Rolling",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1016,7 +1442,10 @@
       "goal": "Level: That Sinking Feeling",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1026,7 +1455,10 @@
       "goal": "Level: Breathe In, Breathe Out",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1036,7 +1468,10 @@
       "goal": "Level: Dive and Dash",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1046,7 +1481,10 @@
       "goal": "Level: Mission: Fly-Fishin'",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1056,7 +1494,10 @@
       "goal": "Level: Don't Tease with the Keys",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1066,7 +1507,10 @@
       "goal": "Level: Enter the Stamp Gauntlet",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1076,7 +1520,10 @@
       "goal": "Level: The Obscurest Chiaroscuris",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["alterna", "levels"],
+      "board_categories": [
+        "alterna",
+        "levels"
+      ],
       "line_categories": [],
       "tooltip": "",
       "icons": [],
@@ -1084,9 +1531,19 @@
     },
     {
       "goal": "Reach floor x{{X}}",
-      "range": [5, 10, 15, 20, 25, 30],
+      "range": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Reach floor {{X}} on one climb",
       "icons": [],
@@ -1094,9 +1551,15 @@
     },
     {
       "goal": "Drone Saturation x{{X}}",
-      "range": [8, 16],
+      "range": [
+        8,
+        16
+      ],
       "individual_limit": 1,
-      "board_categories": ["color_chips", "side_order"],
+      "board_categories": [
+        "color_chips",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Collect {{X}} Drone color-chips on one climb",
       "icons": [],
@@ -1104,9 +1567,15 @@
     },
     {
       "goal": "Lucky Saturation x{{X}}",
-      "range": [8, 16],
+      "range": [
+        8,
+        16
+      ],
       "individual_limit": 1,
-      "board_categories": ["color_chips", "side_order"],
+      "board_categories": [
+        "color_chips",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Collect {{X}} Lucky color-chips on one climb",
       "icons": [],
@@ -1114,9 +1583,15 @@
     },
     {
       "goal": "Mobility Saturation x{{X}}",
-      "range": [8, 16],
+      "range": [
+        8,
+        16
+      ],
       "individual_limit": 1,
-      "board_categories": ["color_chips", "side_order"],
+      "board_categories": [
+        "color_chips",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Collect {{X}} Mobility color-chips on one climb",
       "icons": [],
@@ -1124,9 +1599,15 @@
     },
     {
       "goal": "Range saturation x{{X}}",
-      "range": [8, 16],
+      "range": [
+        8,
+        16
+      ],
       "individual_limit": 1,
-      "board_categories": ["color_chips", "side_order"],
+      "board_categories": [
+        "color_chips",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Collect {{X}} Range color-chips on one climb",
       "icons": [],
@@ -1134,9 +1615,15 @@
     },
     {
       "goal": "Support Saturation x{{X}}",
-      "range": [8, 16],
+      "range": [
+        8,
+        16
+      ],
       "individual_limit": 1,
-      "board_categories": ["color_chips", "side_order"],
+      "board_categories": [
+        "color_chips",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Collect {{X}} Support color-chips on one climb",
       "icons": [],
@@ -1144,9 +1631,15 @@
     },
     {
       "goal": "Power saturation x{{X}}",
-      "range": [8, 16],
+      "range": [
+        8,
+        16
+      ],
       "individual_limit": 1,
-      "board_categories": ["color_chips", "side_order"],
+      "board_categories": [
+        "color_chips",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Collect {{X}} Power color-chips on one climb",
       "icons": [],
@@ -1154,9 +1647,16 @@
     },
     {
       "goal": "Rigorous floors x{{X}}",
-      "range": [1, 3, 5],
+      "range": [
+        1,
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} rigorous floors",
       "icons": [],
@@ -1164,9 +1664,16 @@
     },
     {
       "goal": "Danger floors x{{X}}",
-      "range": [1, 3, 5],
+      "range": [
+        1,
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} danger floors",
       "icons": [],
@@ -1174,9 +1681,16 @@
     },
     {
       "goal": "Bonus floors x{{X}}",
-      "range": [1, 3, 5],
+      "range": [
+        1,
+        3,
+        5
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} bonus floors",
       "icons": [],
@@ -1184,9 +1698,16 @@
     },
     {
       "goal": "Protect the zone! x{{X}}",
-      "range": [5, 10, 15],
+      "range": [
+        5,
+        10,
+        15
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} zone floors",
       "icons": [],
@@ -1194,9 +1715,16 @@
     },
     {
       "goal": "Defeat the fleeing foe! x{{X}}",
-      "range": [5, 10, 15],
+      "range": [
+        5,
+        10,
+        15
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} target floors",
       "icons": [],
@@ -1204,9 +1732,16 @@
     },
     {
       "goal": "Escort the turbine tower! x{{X}}",
-      "range": [5, 10, 15],
+      "range": [
+        5,
+        10,
+        15
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} tower floors",
       "icons": [],
@@ -1214,9 +1749,16 @@
     },
     {
       "goal": "Destroy the portal! x{{X}}",
-      "range": [5, 10, 15],
+      "range": [
+        5,
+        10,
+        15
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} portal floors",
       "icons": [],
@@ -1224,9 +1766,16 @@
     },
     {
       "goal": "Sink the 8-ball! x{{X}}",
-      "range": [5, 10, 15],
+      "range": [
+        5,
+        10,
+        15
+      ],
       "individual_limit": 1,
-      "board_categories": ["floors", "side_order"],
+      "board_categories": [
+        "floors",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Beat {{X}} 8-ball floors",
       "icons": [],
@@ -1236,7 +1785,10 @@
       "goal": "Research Towering Nobilmente",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 30 Towering Nobilmente and unlock Marina's notes on them",
       "icons": [],
@@ -1246,7 +1798,10 @@
       "goal": "Research Homing Arpeggio",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 70 Homing Arpeggio and unlock Marina's notes on them",
       "icons": [],
@@ -1256,7 +1811,10 @@
       "goal": "Research Spawning Accordo",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 20 Spawning Accordo and unlock Marina's notes on them",
       "icons": [],
@@ -1266,7 +1824,10 @@
       "goal": "Research Gushing Trionfale",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 70 Gushing Trionfale and unlock Marina's notes on them",
       "icons": [],
@@ -1276,7 +1837,10 @@
       "goal": "Research Springing Spiccato",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 70 Springing Spiccato and unlock Marina's notes on them",
       "icons": [],
@@ -1286,7 +1850,10 @@
       "goal": "Research Whirling Accelerando",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 30 Whirling Accelerando and unlock Marina's notes on them",
       "icons": [],
@@ -1296,7 +1863,10 @@
       "goal": "Research Panicking Alla Mambo",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 20 Panicking Alla Mambo and unlock Marina's notes on them",
       "icons": [],
@@ -1306,7 +1876,10 @@
       "goal": "Research Drizzling Capriccioso",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 80 Drizzling Capriccioso and unlock Marina's notes on them",
       "icons": [],
@@ -1316,7 +1889,10 @@
       "goal": "Research Portal",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 50 Portal and unlock Marina's notes on them",
       "icons": [],
@@ -1326,7 +1902,10 @@
       "goal": "Research Battering Lento",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 200 Battering Lento and unlock Marina's notes on them",
       "icons": [],
@@ -1336,7 +1915,10 @@
       "goal": "Research Marching Andante",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 1000 Marching Andante and unlock Marina's notes on them",
       "icons": [],
@@ -1346,7 +1928,10 @@
       "goal": "Research Swarming Languendo",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["jelleton_field_guide", "side_order"],
+      "board_categories": [
+        "jelleton_field_guide",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat 600 Swarming Languendo and unlock Marina's notes on them",
       "icons": [],
@@ -1354,9 +1939,17 @@
     },
     {
       "goal": "Open Lockers x{{X}}",
-      "range": [4, 8, 12, 16, 20],
+      "range": [
+        4,
+        8,
+        12,
+        16,
+        20
+      ],
       "individual_limit": 1,
-      "board_categories": ["side_order"],
+      "board_categories": [
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Use keys to unlock {{X}} lockers",
       "icons": [],
@@ -1364,9 +1957,16 @@
     },
     {
       "goal": "Membux Hacks x{{X}}",
-      "range": [1, 2, 3],
+      "range": [
+        1,
+        2,
+        3
+      ],
       "individual_limit": 1,
-      "board_categories": ["hacks", "side_order"],
+      "board_categories": [
+        "hacks",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Unlock {{X}} hacks in the \"Membux\" category",
       "icons": [],
@@ -1374,9 +1974,16 @@
     },
     {
       "goal": "Vending Machines Hacks x{{X}}",
-      "range": [3, 6, 9],
+      "range": [
+        3,
+        6,
+        9
+      ],
       "individual_limit": 1,
-      "board_categories": ["hacks", "side_order"],
+      "board_categories": [
+        "hacks",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Unlock {{X}} hacks in the \"Vending Machines\" category",
       "icons": [],
@@ -1384,9 +1991,16 @@
     },
     {
       "goal": "Enemies Hacks x{{X}}",
-      "range": [1, 2, 3],
+      "range": [
+        1,
+        2,
+        3
+      ],
       "individual_limit": 1,
-      "board_categories": ["hacks", "side_order"],
+      "board_categories": [
+        "hacks",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Unlock {{X}} hacks in the \"Enemies\" category",
       "icons": [],
@@ -1394,9 +2008,16 @@
     },
     {
       "goal": "Pearl Drone Hacks x{{X}}",
-      "range": [3, 6, 9],
+      "range": [
+        3,
+        6,
+        9
+      ],
       "individual_limit": 1,
-      "board_categories": ["hacks", "side_order"],
+      "board_categories": [
+        "hacks",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Unlock {{X}} hacks in the \"Pearl Drone\" category",
       "icons": [],
@@ -1404,9 +2025,16 @@
     },
     {
       "goal": "Random Factor Hacks x{{X}}",
-      "range": [3, 6, 9],
+      "range": [
+        3,
+        6,
+        9
+      ],
       "individual_limit": 1,
-      "board_categories": ["hacks", "side_order"],
+      "board_categories": [
+        "hacks",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Unlock {{X}} hacks in the \"Random Factor\" category",
       "icons": [],
@@ -1414,9 +2042,16 @@
     },
     {
       "goal": "Player Hacks x{{X}}",
-      "range": [5, 10, 15],
+      "range": [
+        5,
+        10,
+        15
+      ],
       "individual_limit": 1,
-      "board_categories": ["hacks", "side_order"],
+      "board_categories": [
+        "hacks",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Unlock {{X}} hacks in the \"Player\" category",
       "icons": [],
@@ -1426,7 +2061,10 @@
       "goal": "Marina Agitando",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["bosses", "side_order"],
+      "board_categories": [
+        "bosses",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat Marina Agitando",
       "icons": [],
@@ -1436,7 +2074,10 @@
       "goal": "Parallel Canon",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["bosses", "side_order"],
+      "board_categories": [
+        "bosses",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat Parallel Canon",
       "icons": [],
@@ -1446,7 +2087,10 @@
       "goal": "Pinging Marciale",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["bosses", "side_order"],
+      "board_categories": [
+        "bosses",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat Pinging Marciale",
       "icons": [],
@@ -1456,7 +2100,10 @@
       "goal": "Asynchronous Rondo",
       "range": [],
       "individual_limit": 1,
-      "board_categories": ["bosses", "side_order"],
+      "board_categories": [
+        "bosses",
+        "side_order"
+      ],
       "line_categories": [],
       "tooltip": "Defeat Asynchronous Rondo",
       "icons": [],
