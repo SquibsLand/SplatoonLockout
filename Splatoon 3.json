@@ -13,7 +13,8 @@
       "icons": [],
       "progression": ["e", "n"],
       "tooltip": "Beat DJ Octavio in the Cater",
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "👑"
     },
     {
       "goal": "Reach the Future Utopia Island",
@@ -23,7 +24,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach site 1"
+      "tooltip": "Reach site 1",
+      "emoji": "🏃1️⃣"
     },
     {
       "goal": "Obtain {{X}} Upgrade Points",
@@ -34,7 +36,8 @@
       "progression": ["e", "m", "l"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Collect upgrade points by turfing"
+      "tooltip": "Collect upgrade points by turfing",
+      "emoji": "🎖️"
     },
     {
       "goal": "Complete {{X}} Blue Balloon Challenges ",
@@ -45,7 +48,8 @@
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat Blue Balloon Challenges and collect the Sunken Scroll"
+      "tooltip": "Beat Blue Balloon Challenges and collect the Sunken Scroll",
+      "emoji": "🔵🎈"
     },
     {
       "goal": "Beat {{X}} Gold Kettles",
@@ -56,7 +60,8 @@
       "progression": ["m", "l", "n"],
       "tooltip": "Beat levels with a golden kettle entrance",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "☕🟡"
     },
     {
       "goal": "Beat {{X}} Silver Kettles",
@@ -67,7 +72,8 @@
       "progression": ["m", "l", "n"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat silver colored kettles in any area"
+      "tooltip": "Beat silver colored kettles in any area",
+      "emoji": "☕⚪"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 5",
@@ -76,7 +82,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["l", "n"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "🟤5️⃣"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 6",
@@ -85,7 +92,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["l"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "🟤6️⃣"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 4",
@@ -95,7 +103,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "🟤4️⃣"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 3",
@@ -104,7 +113,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "🟤3️⃣"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 2",
@@ -114,7 +124,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "🟤2️⃣"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 1",
@@ -123,7 +134,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "🟤1️⃣"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters",
@@ -133,7 +145,8 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "🟤"
     },
     {
       "goal": "Have a total of {{X}} Power Eggs",
@@ -143,7 +156,8 @@
       "icons": [],
       "progression": ["e", "m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "🟠🥚"
     },
     {
       "goal": "Beat {{X}} Kettles with a 40+ Power Egg Fee",
@@ -154,7 +168,8 @@
       "progression": ["m", "l", "n"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat Kettles that require 40 or 50 Power Eggs to attempt"
+      "tooltip": "Beat Kettles that require 40 or 50 Power Eggs to attempt",
+      "emoji": "🟠🥚"
     },
     {
       "goal": "Beat {{X}} Special Only Kettles",
@@ -165,7 +180,8 @@
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat kettles that only let you use a special weapon in any area"
+      "tooltip": "Beat kettles that only let you use a special weapon in any area",
+      "emoji": "🦸☕"
     },
     {
       "goal": "Beat {{X}} Kettles with all 3 weapons",
@@ -175,7 +191,8 @@
       "icons": [],
       "progression": ["m", "l", "n"],
       "tooltip": "Beat levels using all 3 weapon options",
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "☕💯"
     },
     {
       "goal": "Complete any Alterna Log",
@@ -185,7 +202,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Fully complete an Alterna Log for any area"
+      "tooltip": "Fully complete an Alterna Log for any area",
+      "emoji": "🪵"
     },
     {
       "goal": "Reach the Happiness Research Lab",
@@ -195,7 +213,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach site 6"
+      "tooltip": "Reach site 6",
+      "emoji": "🏃6️⃣"
     },
     {
       "goal": "Reach the Eco-Forest Treehills",
@@ -205,7 +224,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach site 5"
+      "tooltip": "Reach site 5",
+      "emoji": "🏃5️⃣"
     },
     {
       "goal": "Reach the Landfill Dreamland",
@@ -215,7 +235,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach site 4"
+      "tooltip": "Reach site 4",
+      "emoji": "🏃4️⃣"
     },
     {
       "goal": "Reach the Cryogenic Hopetown",
@@ -225,7 +246,8 @@
       "icons": [],
       "progression": ["m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach site 3"
+      "tooltip": "Reach site 3",
+      "emoji": "🏃3️⃣"
     },
     {
       "goal": "Reach the Cozy & Safe Factory",
@@ -235,7 +257,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach site 2"
+      "tooltip": "Reach site 2",
+      "emoji": "🏃2️⃣"
     },
     {
       "goal": "Beat {{X}} Kettles in Happiness Research Lab",
@@ -246,7 +269,8 @@
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat kettles in Site 6"
+      "tooltip": "Beat kettles in Site 6",
+      "emoji": "☕6️⃣"
     },
     {
       "goal": "Beat {{X}} Kettles in Eco Forest Treehills",
@@ -256,7 +280,8 @@
       "icons": [],
       "progression": ["l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Beat kettles in Site 5"
+      "tooltip": "Beat kettles in Site 5",
+      "emoji": "☕5️⃣"
     },
     {
       "goal": "Beat {{X}} Kettles in Landfill Dreamland",
@@ -267,7 +292,8 @@
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat kettles in Site 4"
+      "tooltip": "Beat kettles in Site 4",
+      "emoji": "☕4️⃣"
     },
     {
       "goal": "Beat {{X}} Kettles Cryogenic Hopetown",
@@ -277,7 +303,8 @@
       "icons": [],
       "progression": ["m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Beat kettles in Site 3"
+      "tooltip": "Beat kettles in Site 3",
+      "emoji": "☕3️⃣"
     },
     {
       "goal": "Beat {{X}} Kettles in Cozy & Safe Factory",
@@ -288,7 +315,8 @@
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat kettles in Site 2"
+      "tooltip": "Beat kettles in Site 2",
+      "emoji": "☕2️⃣"
     },
     {
       "goal": "Beat {{X}} Kettles in Future Utopia Island",
@@ -299,7 +327,8 @@
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Beat kettles in Site 1"
+      "tooltip": "Beat kettles in Site 1",
+      "emoji": "☕1️⃣"
     },
     {
       "goal": "Beat {{X}} Levels",
@@ -310,7 +339,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "Complete any kettle from any level",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "☕"
     },
     {
       "goal": "Find {{X}} Loot anchors ",
@@ -320,7 +350,8 @@
       "icons": [],
       "progression": ["e", "m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "📦"
     },
     {
       "goal": "Find {{X}} Gold Records",
@@ -331,7 +362,8 @@
       "progression": ["m", "l", "n"],
       "tooltip": "Collect Gold Records from any area",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "💿"
     },
     {
       "goal": "Obtain {{X}} Sunken Scrolls",
@@ -342,7 +374,8 @@
       "progression": ["m", "l", "n"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Collect Sunken Scrolls from any site"
+      "tooltip": "Collect Sunken Scrolls from any site",
+      "emoji": "📜"
     },
     {
       "goal": "Obtain {{X}} Sardinium",
@@ -353,7 +386,8 @@
       "progression": ["e", "m", "l"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Collect Sardinium from any site"
+      "tooltip": "Collect Sardinium from any site",
+      "emoji": "🐟"
     },
     {
       "goal": "Weapon Upgrades x{{X}}",
@@ -364,7 +398,8 @@
       "progression": ["m", "l", "n"],
       "tooltip": "Get {{X}} Main and/or Sub weapon upgrades ",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "⬆️"
     },
     {
       "goal": "Any Smallfry Upgrades x{{X}}",
@@ -375,7 +410,8 @@
       "progression": ["e", "m", "l", "n"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Get any combination of Smallfry Upgrades, such as HP, Ink Saver, Quick Respawn and Damage"
+      "tooltip": "Get any combination of Smallfry Upgrades, such as HP, Ink Saver, Quick Respawn and Damage",
+      "emoji": "⬆️"
     },
     {
       "goal": "\"Sensor\" Upgrades x{{X}}",
@@ -386,7 +422,8 @@
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Get and/or upgrade the Sensor in the Hero Gear"
+      "tooltip": "Get and/or upgrade the Sensor in the Hero Gear",
+      "emoji": "⬆️"
     },
     {
       "goal": "\"Suit Recovery Up\" Upgrades x{{X}}",
@@ -397,7 +434,8 @@
       "progression": ["m", "n"],
       "text_color": "#b3ffb0",
       "progressive_ranges": true,
-      "tooltip": "Upgrade the Suit Recovery in the Hero Gear"
+      "tooltip": "Upgrade the Suit Recovery in the Hero Gear",
+      "emoji": "⬆️"
     },
     {
       "goal": "\"Splat Bombs\" Upgrades x{{X}}",
@@ -407,7 +445,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Get and/or upgrade the Splat Bombs in the Hero Gear"
+      "tooltip": "Get and/or upgrade the Splat Bombs in the Hero Gear",
+      "emoji": "⬆️"
     },
     {
       "goal": "\"Smallfry Ink Saver\" Upgrade",
@@ -417,10 +456,11 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Decrease the amount of ink consumed when throwing Smallfry in the Hero Gear"
+      "tooltip": "Decrease the amount of ink consumed when throwing Smallfry in the Hero Gear",
+      "emoji": "⬆️"
     },
     {
-      "goal": "Ink-Tank Capacity Up x{{X}}",
+      "goal": "\"Ink-Tank Capacity Up\" upgrades x{{X}}",
       "range": [1, 2],
       "board_categories": ["alterna"],
       "line_categories": [],
@@ -428,10 +468,11 @@
       "progression": ["m", "l"],
       "tooltip": "Increase the Ink-Tank Capacity via Hero Gear",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "⬆️"
     },
     {
-      "goal": "Ink Resistance Up x{{X}}",
+      "goal": "\"Ink Resistance Up\" upgrades x{{X}}",
       "range": [1, 2],
       "board_categories": ["alterna"],
       "line_categories": [],
@@ -439,10 +480,11 @@
       "progression": ["e", "m", "l"],
       "tooltip": "Upgrade Ink Resistance via Hero Gear",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "⬆️"
     },
     {
-      "goal": "Hero Shot Fire Rate x{{X}}",
+      "goal": "\"Hero Shot\" upgrades x{{X}}",
       "range": [1, 2],
       "board_categories": ["alterna"],
       "line_categories": [],
@@ -450,7 +492,8 @@
       "progression": ["e", "m", "l"],
       "tooltip": "Increase the Hero Shot's fire rate via the Hero Gear",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "emoji": "⬆️"
     },
     {
       "goal": "\"Special Charge Up\" Upgrade x{{X}}",
@@ -460,7 +503,8 @@
       "icons": [],
       "progression": ["e"],
       "tooltip": "Increase your Special Charge rate via Hero Gear",
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "⬆️"
     },
     {
       "goal": "\"Smallfry HP Up\" Upgrade",
@@ -470,7 +514,8 @@
       "icons": [],
       "progression": ["e", "l"],
       "tooltip": "Increase Smallfry's HP via Hero Gear",
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "⬆️"
     },
     {
       "goal": "Boss: The Obscurest Chiaroscurist",
@@ -480,7 +525,8 @@
       "icons": [],
       "progression": ["n"],
       "tooltip": "Complete the Big Man Boss Battle",
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "👑"
     },
     {
       "goal": "Boss: The Pursuit of the Precious",
@@ -490,7 +536,8 @@
       "icons": [],
       "progression": ["l"],
       "tooltip": "Complete the Shiver Boss Battle",
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "👑"
     },
     {
       "goal": "Boss: The Future Stares Back",
@@ -500,7 +547,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "tooltip": "Complete the Frye Boss Battle",
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "emoji": "👑"
     },
     {
       "goal": "Level: Get to Know Alterna, Your Only Choice",
@@ -510,7 +558,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Show off your skills and reach the goal."
+      "tooltip": "Show off your skills and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Octopods at Rest Tend to FLIP OUT!",
@@ -520,7 +569,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Remain in one piece and reach the goal."
+      "tooltip": "Remain in one piece and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Splat You on the Flip Side",
@@ -530,7 +580,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Outwit the Octarians and reach the goal!"
+      "tooltip": "Outwit the Octarians and reach the goal!",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Doors, Doors, Doors! And More! (Doors)",
@@ -540,7 +591,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Find all the keys and reach the goal."
+      "tooltip": "Find all the keys and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Relic Restoration",
@@ -550,7 +602,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Cover as much as you can with ink."
+      "tooltip": "Cover as much as you can with ink.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Zip, Splat, and Jump",
@@ -560,7 +613,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Zipcast your way to the goal!"
+      "tooltip": "Zipcast your way to the goal!",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Become One with Your Smallfry",
@@ -570,7 +624,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Show off your skills and reach the goal."
+      "tooltip": "Show off your skills and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: What Caused the Big Bang? YOU!",
@@ -580,7 +635,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Destroy all of the targets in one shot."
+      "tooltip": "Destroy all of the targets in one shot.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: The String's the Thing",
@@ -590,7 +646,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using the Tri-Stringer."
+      "tooltip": "Reach the goal using the Tri-Stringer.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Twirling, Swirling, Whirling",
@@ -600,7 +657,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Navigate rotating platforms to reach the goal."
+      "tooltip": "Navigate rotating platforms to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Absorbency and You",
@@ -610,7 +668,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using sponges."
+      "tooltip": "Reach the goal using sponges.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Soak It to Me!",
@@ -620,7 +679,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using soaker blocks."
+      "tooltip": "Reach the goal using soaker blocks.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Splitting Crosshairs",
@@ -630,7 +690,8 @@
       "icons": [],
       "progression": ["e"],
       "text_color": "#b3ffb0",
-      "tooltip": "Break the targets to reach the goal."
+      "tooltip": "Break the targets to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Tread Heavily",
@@ -640,7 +701,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using the Crab Tank!"
+      "tooltip": "Reach the goal using the Crab Tank!",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Getting Lost in Three Easy Steps",
@@ -650,7 +712,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Navigate the maze to reach the goal."
+      "tooltip": "Navigate the maze to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: The Ink-Conservation Project",
@@ -660,7 +723,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal without running out of ink."
+      "tooltip": "Reach the goal without running out of ink.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Switching Things Up",
@@ -670,7 +734,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Hit the splat switches to reach the goal."
+      "tooltip": "Hit the splat switches to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Climbing the Corporate Splatter",
@@ -680,7 +745,8 @@
       "icons": [],
       "progression": ["m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Take down Octarians and climb to the goal."
+      "tooltip": "Take down Octarians and climb to the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: They Said We'd Have Flying Cars, and We Do! Kinda!",
@@ -690,7 +756,8 @@
       "icons": [],
       "progression": ["m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Keep an eye on the sky, and hitch a ride to the goal."
+      "tooltip": "Keep an eye on the sky, and hitch a ride to the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Ink Wheels - Experience Tomorrow's Technology Today!",
@@ -700,7 +767,8 @@
       "icons": [],
       "progression": ["m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using ink wheels."
+      "tooltip": "Reach the goal using ink wheels.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Try Curling! Alterna's 11th Most Popular...",
@@ -710,7 +778,8 @@
       "icons": [],
       "progression": ["m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal by using Curling Bombs."
+      "tooltip": "Reach the goal by using Curling Bombs.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Conveyor-Belt Tightening",
@@ -720,7 +789,8 @@
       "icons": [],
       "progression": ["m"],
       "text_color": "#b3ffb0",
-      "tooltip": "Destroy all the targets."
+      "tooltip": "Destroy all the targets.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Time Trial and Errors",
@@ -730,7 +800,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Break all targets before time runs out."
+      "tooltip": "Break all targets before time runs out.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Propellered to Greatness",
@@ -740,7 +811,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using propellervators."
+      "tooltip": "Reach the goal using propellervators.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Octohoppers Don't Have a Sense of Humor",
@@ -750,7 +822,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Watch for hopstacles as you head toward the goal."
+      "tooltip": "Watch for hopstacles as you head toward the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Let's Put a Pin in That",
@@ -760,7 +833,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Stay in your lane and reach the goal."
+      "tooltip": "Stay in your lane and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Splash the Block Party",
@@ -770,7 +844,8 @@
       "icons": [],
       "progression": ["l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using soaker blocks."
+      "tooltip": "Reach the goal using soaker blocks.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Amusing a Bemused Muse",
@@ -780,7 +855,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Aim carefully and copy the template."
+      "tooltip": "Aim carefully and copy the template.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Those Aren't Birds",
@@ -790,7 +866,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Break all of the targets."
+      "tooltip": "Break all of the targets.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Charge Now, Splat Later",
@@ -800,7 +877,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Use charged shots to reach the goal."
+      "tooltip": "Use charged shots to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Easy Ride, Tricky Targets",
@@ -810,7 +888,8 @@
       "icons": [],
       "progression": ["l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Destroy the targets and reach the goal."
+      "tooltip": "Destroy the targets and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Flying Worst Class",
@@ -820,7 +899,8 @@
       "icons": [],
       "progression": ["l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Hitch rides to reach the goal."
+      "tooltip": "Hitch rides to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Ink Fast, Hotshot",
@@ -830,7 +910,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Destroy the targets to reach the goal."
+      "tooltip": "Destroy the targets to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Stamp 'Em Out",
@@ -840,7 +921,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Use the Splatana Stamper to reach the goal."
+      "tooltip": "Use the Splatana Stamper to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: The Path to Perfect Penmanship",
@@ -850,7 +932,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Use the splat switches to reach the goal within the time limit."
+      "tooltip": "Use the splat switches to reach the goal within the time limit.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Trouble Round Every Corner",
@@ -860,7 +943,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Suppress enemy fire and reach the goal."
+      "tooltip": "Suppress enemy fire and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: The Upside to Enemy Backsides",
@@ -870,7 +954,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Attack enemy backs to reach the goal."
+      "tooltip": "Attack enemy backs to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Uh-Oh! Too Many Snipers!",
@@ -880,7 +965,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Avoid enemy fire and reach the goal."
+      "tooltip": "Avoid enemy fire and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Barriers! They've Got You Covered",
@@ -890,7 +976,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Defeat Octodiscos and reach the goal."
+      "tooltip": "Defeat Octodiscos and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: A Compulsive Collector's Paradise",
@@ -900,7 +987,8 @@
       "icons": [],
       "progression": ["l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Grab all Power Eggs within the time limit."
+      "tooltip": "Grab all Power Eggs within the time limit.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Zipping over the Neighborhood",
@@ -910,7 +998,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Use the Zipcaster to reach the goal."
+      "tooltip": "Use the Zipcaster to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: One-Way Ride through Target Town",
@@ -920,7 +1009,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Destroy the targets to reach the goal."
+      "tooltip": "Destroy the targets to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Making Waves with Splashdowns",
@@ -930,7 +1020,8 @@
       "icons": [],
       "progression": ["l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Use Splashdowns to reach the goal."
+      "tooltip": "Use Splashdowns to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Low Viz, High Risk",
@@ -940,7 +1031,8 @@
       "icons": [],
       "progression": ["l"],
       "text_color": "#b3ffb0",
-      "tooltip": "Cut through the fog and find the goal!"
+      "tooltip": "Cut through the fog and find the goal!",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Shooter on Rails",
@@ -950,7 +1042,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using ride rails and precision shooting."
+      "tooltip": "Reach the goal using ride rails and precision shooting.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Simply Zipcastic!",
@@ -960,7 +1053,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Use the Zipcaster to make your way up and reach the goal."
+      "tooltip": "Use the Zipcaster to make your way up and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: You'll Go Far If You Shoot Far",
@@ -970,7 +1064,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Send ink flying in all directions and reach the goal."
+      "tooltip": "Send ink flying in all directions and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Bet You Mist Us!",
@@ -980,7 +1075,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Defeat the enemies sneaking around in the mist, and reach the goal."
+      "tooltip": "Defeat the enemies sneaking around in the mist, and reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Octarian Heights",
@@ -990,7 +1086,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Climb the enemy-filled tower to reach the goal."
+      "tooltip": "Climb the enemy-filled tower to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Torture Tour",
@@ -1000,7 +1097,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Fight your way to the goal!"
+      "tooltip": "Fight your way to the goal!",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Conserve Ink - Splat Sustainably",
@@ -1010,7 +1108,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal before running out of ink."
+      "tooltip": "Reach the goal before running out of ink.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: The Enemy Ink Is Lava!",
@@ -1020,7 +1119,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal without touching enemy ink at all."
+      "tooltip": "Reach the goal without touching enemy ink at all.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Keep It Rolling",
@@ -1030,7 +1130,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal using a roller."
+      "tooltip": "Reach the goal using a roller.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: That Sinking Feeling",
@@ -1040,7 +1141,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal...quickly."
+      "tooltip": "Reach the goal...quickly.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Breathe In, Breathe Out",
@@ -1050,7 +1152,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Time your movements carefully to reach the goal."
+      "tooltip": "Time your movements carefully to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Dive and Dash",
@@ -1060,7 +1163,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Reach the goal within the time limit."
+      "tooltip": "Reach the goal within the time limit.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Mission: Fly-Fishin'",
@@ -1070,7 +1174,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Fly with the Inkjet to reach the goal."
+      "tooltip": "Fly with the Inkjet to reach the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Don't Tease with the Keys",
@@ -1080,7 +1185,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Find the keys, and unlock the path to the goal."
+      "tooltip": "Find the keys, and unlock the path to the goal.",
+      "emoji": "☕"
     },
     {
       "goal": "Level: Enter the Stamp Gauntlet",
@@ -1090,7 +1196,8 @@
       "icons": [],
       "progression": ["n"],
       "text_color": "#b3ffb0",
-      "tooltip": "Smash all the enemies within the time limit."
+      "tooltip": "Smash all the enemies within the time limit.",
+      "emoji": "☕"
     },
     {
       "goal": "Reach floor x{{X}}",
