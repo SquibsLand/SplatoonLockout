@@ -483,8 +483,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Show off your skills and reach the goal."
     },
     {
       "goal": "Level: Octopods at Rest Tend to FLIP OUT!",
@@ -492,8 +493,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Remain in one piece and reach the goal."
     },
     {
       "goal": "Level: Splat You on the Flip Side",
@@ -501,8 +503,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Outwit the Octarians and reach the goal!"
     },
     {
       "goal": "Level: Doors, Doors, Doors! And More! (Doors)",
@@ -510,8 +513,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Find all the keys and reach the goal."
     },
     {
       "goal": "Level: Relic Restoration",
@@ -519,8 +523,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Cover as much as you can with ink."
     },
     {
       "goal": "Level: Zip, Splat, and Jump",
@@ -528,8 +533,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Zipcast your way to the goal!"
     },
     {
       "goal": "Level: Become One with Your Smallfry",
@@ -537,8 +543,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Show off your skills and reach the goal."
     },
     {
       "goal": "Level: What Caused the Big Bang? YOU!",
@@ -546,8 +553,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Destroy all of the targets in one shot."
     },
     {
       "goal": "Level: The String's the Thing",
@@ -555,8 +563,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using the Tri-Stringer."
     },
     {
       "goal": "Level: Twirling, Swirling, Whirling",
@@ -564,8 +573,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e", "m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Navigate rotating platforms to reach the goal."
     },
     {
       "goal": "Level: Absorbency and You",
@@ -573,8 +583,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e", "m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using sponges."
     },
     {
       "goal": "Level: Soak It to Me!",
@@ -582,8 +593,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e", "m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using soaker blocks."
     },
     {
       "goal": "Level: Splitting Crosshairs",
@@ -591,8 +603,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Break the targets to reach the goal."
     },
     {
       "goal": "Level: Tread Heavily",
@@ -600,8 +613,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e", "m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using the Crab Tank!"
     },
     {
       "goal": "Level: Getting Lost in Three Easy Steps",
@@ -609,8 +623,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e", "m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Navigate the maze to reach the goal."
     },
     {
       "goal": "Level: The Ink-Conservation Project",
@@ -618,8 +633,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e", "m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal without running out of ink."
     },
     {
       "goal": "Level: Switching Things Up",
@@ -627,8 +643,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["e", "m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Hit the splat switches to reach the goal."
     },
     {
       "goal": "Level: Climbing the Corporate Splatter",
@@ -636,8 +653,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Take down Octarians and climb to the goal."
     },
     {
       "goal": "Level: They Said We'd Have Flying Cars, and We Do! Kinda!",
@@ -645,8 +663,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Keep an eye on the sky, and hitch a ride to the goal."
     },
     {
       "goal": "Level: Ink Wheels - Experience Tomorrow's Technology Today!",
@@ -654,8 +673,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using ink wheels."
     },
     {
       "goal": "Level: Try Curling! Alterna's 11th Most Popular...",
@@ -663,8 +683,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal by using Curling Bombs."
     },
     {
       "goal": "Level: Conveyor-Belt Tightening",
@@ -672,8 +693,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Destroy all the targets."
     },
     {
       "goal": "Level: Time Trial and Errors",
@@ -681,8 +703,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Break all targets before time runs out."
     },
     {
       "goal": "Level: Propellered to Greatness",
@@ -690,8 +713,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using propellervators."
     },
     {
       "goal": "Level: Octohoppers Don't Have a Sense of Humor",
@@ -699,8 +723,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Watch for hopstacles as you head toward the goal."
     },
     {
       "goal": "Level: Let's Put a Pin in That",
@@ -708,8 +733,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Stay in your lane and reach the goal."
     },
     {
       "goal": "Level: Splash the Block Party",
@@ -717,8 +743,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using soaker blocks."
     },
     {
       "goal": "Level: Amusing a Bemused Muse",
@@ -726,8 +753,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Aim carefully and copy the template."
     },
     {
       "goal": "Level: Those Aren't Birds",
@@ -735,8 +763,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Break all of the targets."
     },
     {
       "goal": "Level: Charge Now, Splat Later",
@@ -744,8 +773,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Use charged shots to reach the goal."
     },
     {
       "goal": "Level: Easy Ride, Tricky Targets",
@@ -753,8 +783,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Destroy the targets and reach the goal."
     },
     {
       "goal": "Level: Flying Worst Class",
@@ -762,8 +793,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Hitch rides to reach the goal."
     },
     {
       "goal": "Level: Ink Fast, Hotshot",
@@ -771,8 +803,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Destroy the targets to reach the goal."
     },
     {
       "goal": "Level: Stamp 'Em Out",
@@ -780,8 +813,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Use the Splatana Stamper to reach the goal."
     },
     {
       "goal": "Level: The Path to Perfect Penmanship",
@@ -789,8 +823,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Use the splat switches to reach the goal within the time limit."
     },
     {
       "goal": "Level: Trouble Round Every Corner",
@@ -798,8 +833,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Suppress enemy fire and reach the goal."
     },
     {
       "goal": "Level: The Upside to Enemy Backsides",
@@ -807,8 +843,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Attack enemy backs to reach the goal."
     },
     {
       "goal": "Level: Uh-Oh! Too Many Snipers!",
@@ -816,8 +853,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Avoid enemy fire and reach the goal."
     },
     {
       "goal": "Level: Barriers! They've Got You Covered",
@@ -825,8 +863,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Defeat Octodiscos and reach the goal."
     },
     {
       "goal": "Level: A Compulsive Collector's Paradise",
@@ -834,8 +873,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Grab all Power Eggs within the time limit."
     },
     {
       "goal": "Level: Zipping over the Neighborhood",
@@ -843,8 +883,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Use the Zipcaster to reach the goal."
     },
     {
       "goal": "Level: One-Way Ride through Target Town",
@@ -852,8 +893,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Destroy the targets to reach the goal."
     },
     {
       "goal": "Level: Making Waves with Splashdowns",
@@ -861,8 +903,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Use Splashdowns to reach the goal."
     },
     {
       "goal": "Level: Low Viz, High Risk",
@@ -870,8 +913,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Cut through the fog and find the goal!"
     },
     {
       "goal": "Level: Shooter on Rails",
@@ -879,8 +923,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using ride rails and precision shooting."
     },
     {
       "goal": "Level: Simply Zipcastic!",
@@ -888,8 +933,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Use the Zipcaster to make your way up and reach the goal."
     },
     {
       "goal": "Level: You'll Go Far If You Shoot Far",
@@ -897,8 +943,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Send ink flying in all directions and reach the goal."
     },
     {
       "goal": "Level: Bet You Mist Us!",
@@ -906,8 +953,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Defeat the enemies sneaking around in the mist, and reach the goal."
     },
     {
       "goal": "Level: Octarian Heights",
@@ -915,8 +963,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Climb the enemy-filled tower to reach the goal."
     },
     {
       "goal": "Level: Torture Tour",
@@ -924,8 +973,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Fight your way to the goal!"
     },
     {
       "goal": "Level: Conserve Ink - Splat Sustainably",
@@ -933,8 +983,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal before running out of ink."
     },
     {
       "goal": "Level: The Enemy Ink Is Lava!",
@@ -942,8 +993,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal without touching enemy ink at all."
     },
     {
       "goal": "Level: Keep It Rolling",
@@ -951,8 +1003,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal using a roller."
     },
     {
       "goal": "Level: That Sinking Feeling",
@@ -960,8 +1013,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal...quickly."
     },
     {
       "goal": "Level: Breathe In, Breathe Out",
@@ -969,8 +1023,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Time your movements carefully to reach the goal."
     },
     {
       "goal": "Level: Dive and Dash",
@@ -978,8 +1033,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach the goal within the time limit."
     },
     {
       "goal": "Level: Mission: Fly-Fishin'",
@@ -987,8 +1043,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Fly with the Inkjet to reach the goal."
     },
     {
       "goal": "Level: Don't Tease with the Keys",
@@ -996,8 +1053,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Find the keys, and unlock the path to the goal."
     },
     {
       "goal": "Level: Enter the Stamp Gauntlet",
@@ -1005,17 +1063,9 @@
       "board_categories": ["alterna", "levels"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
-    },
-    {
-      "goal": "Level: The Obscurest Chiaroscuris",
-      "range": [],
-      "board_categories": ["alterna", "levels"],
-      "line_categories": [],
-      "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Smash all the enemies within the time limit."
     },
     {
       "goal": "Reach floor x{{X}}",
