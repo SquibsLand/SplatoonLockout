@@ -6,7 +6,7 @@
   "tag_names": [],
   "objectives": [
     {
-      "goal": "Beat DJ Octavio",
+      "goal": "Boss: DJ Octavio",
       "range": [],
       "board_categories": ["alterna"],
       "line_categories": [],
@@ -22,7 +22,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach site 1"
     },
     {
       "goal": "Obtain {{X}} Upgrade Points",
@@ -32,7 +33,8 @@
       "icons": [],
       "progression": ["e", "m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Collect upgrade points by turfing"
     },
     {
       "goal": "Complete {{X}} Blue Balloon Challenges ",
@@ -42,7 +44,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat Blue Balloon Challenges and collect the Sunken Scroll"
     },
     {
       "goal": "Beat {{X}} Gold Kettles",
@@ -63,7 +66,8 @@
       "icons": [],
       "progression": ["m", "l", "n"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat silver colored kettles in any area"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 5",
@@ -149,7 +153,8 @@
       "icons": [],
       "progression": ["m", "l", "n"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat Kettles that require 40 or 50 Power Eggs to attempt"
     },
     {
       "goal": "Beat {{X}} Special Only Kettles",
@@ -159,7 +164,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat kettles that only let you use a special weapon in any area"
     },
     {
       "goal": "Beat {{X}} Kettles with all 3 weapons",
@@ -178,7 +184,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["n"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Fully complete an Alterna Log for any area"
     },
     {
       "goal": "Reach the Happiness Research Lab",
@@ -186,8 +193,9 @@
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
-      "progression": ["l"],
-      "text_color": "#b3ffb0"
+      "progression": ["l", "n"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach site 6"
     },
     {
       "goal": "Reach the Eco-Forest Treehills",
@@ -195,8 +203,9 @@
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
-      "progression": ["l", "n"],
-      "text_color": "#b3ffb0"
+      "progression": ["m", "l"],
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach site 5"
     },
     {
       "goal": "Reach the Landfill Dreamland",
@@ -205,7 +214,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach site 4"
     },
     {
       "goal": "Reach the Cryogenic Hopetown",
@@ -214,7 +224,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach site 3"
     },
     {
       "goal": "Reach the Cozy & Safe Factory",
@@ -223,7 +234,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Reach site 2"
     },
     {
       "goal": "Beat {{X}} Kettles in Happiness Research Lab",
@@ -233,7 +245,8 @@
       "icons": [],
       "progression": ["l", "n"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat kettles in Site 6"
     },
     {
       "goal": "Beat {{X}} Kettles in Eco Forest Treehills",
@@ -242,7 +255,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["l"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Beat kettles in Site 5"
     },
     {
       "goal": "Beat {{X}} Kettles in Landfill Dreamland",
@@ -252,7 +266,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat kettles in Site 4"
     },
     {
       "goal": "Beat {{X}} Kettles Cryogenic Hopetown",
@@ -261,7 +276,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Beat kettles in Site 3"
     },
     {
       "goal": "Beat {{X}} Kettles in Cozy & Safe Factory",
@@ -271,7 +287,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat kettles in Site 2"
     },
     {
       "goal": "Beat {{X}} Kettles in Future Utopia Island",
@@ -281,7 +298,8 @@
       "icons": [],
       "progression": ["e", "m"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Beat kettles in Site 1"
     },
     {
       "goal": "Beat {{X}} Levels",
@@ -290,7 +308,7 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "Complete any kettle types",
+      "tooltip": "Complete any kettle from any level",
       "text_color": "#b3ffb0",
       "progressive_ranges": true
     },
@@ -323,7 +341,8 @@
       "icons": [],
       "progression": ["m", "l", "n"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Collect Sunken Scrolls from any site"
     },
     {
       "goal": "Obtain {{X}} Sardinium",
@@ -333,7 +352,8 @@
       "icons": [],
       "progression": ["e", "m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Collect Sardinium from any site"
     },
     {
       "goal": "Weapon Upgrades x{{X}}",
@@ -354,7 +374,8 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Get any combination of Smallfry Upgrades, such as HP, Ink Saver, Quick Respawn and Damage"
     },
     {
       "goal": "\"Sensor\" Upgrades x{{X}}",
@@ -364,7 +385,8 @@
       "icons": [],
       "progression": ["m", "l"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Get and/or upgrade the Sensor in the Hero Gear"
     },
     {
       "goal": "\"Suit Recovery Up\" Upgrades x{{X}}",
@@ -374,7 +396,8 @@
       "icons": [],
       "progression": ["m", "n"],
       "text_color": "#b3ffb0",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "tooltip": "Upgrade the Suit Recovery in the Hero Gear"
     },
     {
       "goal": "\"Splat Bombs\" Upgrades x{{X}}",
@@ -383,7 +406,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Get and/or upgrade the Splat Bombs in the Hero Gear"
     },
     {
       "goal": "\"Smallfry Ink Saver\" Upgrade",
@@ -392,7 +416,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m"],
-      "text_color": "#b3ffb0"
+      "text_color": "#b3ffb0",
+      "tooltip": "Decrease the amount of ink consumed when throwing Smallfry in the Hero Gear"
     },
     {
       "goal": "Ink-Tank Capacity Up x{{X}}",
