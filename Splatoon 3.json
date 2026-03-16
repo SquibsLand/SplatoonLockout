@@ -8,7 +8,7 @@
     {
       "goal": "Obtain {{X}} Keys",
       "range": [5, 8, 10, 12],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -18,7 +18,7 @@
     {
       "goal": "Splat {{X}} Oversized Octopods",
       "range": [1, 2, 3],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -28,7 +28,7 @@
     {
       "goal": "Splat an Octobomber",
       "range": [],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -38,7 +38,7 @@
     {
       "goal": "Splat {{X}} Octosnipers",
       "range": [6, 10, 12, 15],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -48,7 +48,7 @@
     {
       "goal": "Splat {{X}} Octocommanders",
       "range": [3, 5, 8, 10],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -58,7 +58,7 @@
     {
       "goal": "Splat {{X}} Octolings",
       "range": [3, 5],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -68,7 +68,7 @@
     {
       "goal": "Splat an Amped Octostamp",
       "range": [],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -78,7 +78,7 @@
     {
       "goal": "Splat an Octostamp",
       "range": [],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -88,7 +88,7 @@
     {
       "goal": "Splat a Blobby Octotrooper",
       "range": [],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -98,7 +98,7 @@
     {
       "goal": "Splat an Octodiver",
       "range": [],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -108,7 +108,7 @@
     {
       "goal": "Splat {{X}} Shielded Octotroopers ",
       "range": [5, 10, 15],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -118,7 +118,7 @@
     {
       "goal": "Activate {{X}} Switches ",
       "range": [4, 6, 8, 10],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -128,7 +128,7 @@
     {
       "goal": "Get {{X}} Checkpoints",
       "range": [10, 15, 20, 25],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -138,7 +138,7 @@
     {
       "goal": "Beat {{X}} Stages with Hardest Weapon",
       "range": [5, 10],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
@@ -150,7 +150,7 @@
     {
       "goal": "End {{X}} Stages with Bonuses",
       "range": [1, 2, 3, 4, 5],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
@@ -163,7 +163,7 @@
     {
       "goal": "Get {{X}} Unique Special Cans Locations",
       "range": [2, 3, 4, 5],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
@@ -176,7 +176,7 @@
     {
       "goal": "Max Armor",
       "range": [],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
@@ -187,7 +187,7 @@
     {
       "goal": "Get {{X}} Unique Armor Kits",
       "range": [5, 10, 15, 20],
-      "board_categories": [],
+      "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
