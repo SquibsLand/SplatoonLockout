@@ -14,7 +14,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "individual_limit": 2,
-      "emoji": "🔫"
+      "emoji": "🔫",
+      "text_color": "#ff0000"
     },
     {
       "goal": "End {{X}} Stages with Bonuses",
@@ -26,7 +27,8 @@
       "tooltip": "BETA",
       "progressive_ranges": true,
       "individual_limit": 3,
-      "emoji": "➕"
+      "emoji": "➕",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Get {{X}} Unique Special Cans Locations",
@@ -34,11 +36,12 @@
       "board_categories": [],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e", "m", "l"],
       "tooltip": "BETA",
       "individual_limit": 4,
       "emoji": "🥫",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "text_color": "#ff0000"
     },
     {
       "goal": "Max Armor",
@@ -46,9 +49,10 @@
       "board_categories": [],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "emoji": "🛡️",
-      "tooltip": "BETA"
+      "tooltip": "BETA",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Get {{X}} Unique Armor Kits",
@@ -60,7 +64,8 @@
       "progressive_ranges": true,
       "individual_limit": 4,
       "emoji": "💼",
-      "tooltip": "BETA"
+      "tooltip": "BETA",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Boss: DJ Octavio",
