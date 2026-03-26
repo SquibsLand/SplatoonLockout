@@ -6,6 +6,17 @@
   "tag_names": ["beat_crater"],
   "objectives": [
     {
+      "goal": "Splat an Octohopper",
+      "range": [],
+      "board_categories": ["alterna"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
+      "emoji": "🐙",
+      "text_color": "#b3ffb0"
+    },
+    {
       "goal": "Obtain {{X}} Unique Keys",
       "range": [5, 8, 10, 12],
       "board_categories": ["alterna"],
@@ -28,7 +39,7 @@
       "individual_limit": 3,
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat an Octobomber",
@@ -39,7 +50,7 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat {{X}} Octosnipers",
@@ -51,7 +62,7 @@
       "individual_limit": 4,
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat {{X}} Octocommanders",
@@ -63,7 +74,7 @@
       "individual_limit": 4,
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat {{X}} Octolings",
@@ -75,7 +86,7 @@
       "individual_limit": 2,
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat an Amped Octostamp",
@@ -86,7 +97,7 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat an Octostamp",
@@ -97,7 +108,7 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat a Blobby Octotrooper",
@@ -108,7 +119,7 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat an Octodiver",
@@ -119,7 +130,7 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Splat {{X}} Shielded Octotroopers ",
@@ -131,10 +142,10 @@
       "individual_limit": 3,
       "tooltip": "BETA",
       "emoji": "🐙",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
-      "goal": "Activate {{X}} Splat-Switches ",
+      "goal": "Activate {{X}} Big Splat-Switches ",
       "range": [4, 6, 8, 10],
       "board_categories": ["alterna"],
       "line_categories": [],
@@ -143,7 +154,7 @@
       "individual_limit": 4,
       "tooltip": "BETA",
       "emoji": "🎚️",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Get {{X}} Unique Checkpoints",
