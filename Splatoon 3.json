@@ -11,9 +11,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e", "m"],
       "text_color": "#ff0000",
-      "emoji": "⭕🔫"
+      "emoji": "⭕🔫",
+      "tooltip": "BETA",
+      "progressive_ranges": true
     },
     {
       "goal": "Overlorder",
@@ -31,10 +33,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "↔️🦸"
+      "emoji": "↔️🦸",
+      "progressive_ranges": true
     },
     {
       "goal": "Change your sub weapon {{X}} times",
@@ -42,10 +45,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "↔💣"
+      "emoji": "↔💣",
+      "progressive_ranges": true
     },
     {
       "goal": "Obtain {{X}} Membux in one Climb",
@@ -53,10 +57,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "🪙"
+      "emoji": "🪙",
+      "progressive_ranges": true
     },
     {
       "goal": "Score {{X}} points in one climb",
@@ -64,10 +69,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "🐟"
+      "emoji": "🐟",
+      "progressive_ranges": true
     },
     {
       "goal": "Get a(n) {{X}} long Tone Chain",
@@ -75,10 +81,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "🔗"
+      "emoji": "🔗",
+      "progressive_ranges": true
     },
     {
       "goal": "Reach floor 10 with {{X}} unique Palettes",
@@ -86,10 +93,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "🎨"
+      "emoji": "🎨",
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Boss Floors",
@@ -97,10 +105,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "💪"
+      "emoji": "💪",
+      "progressive_ranges": true
     },
     {
       "goal": "Hard Floors x{{X}}",
@@ -108,10 +117,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "↗️"
+      "emoji": "↗️",
+      "progressive_ranges": true
     },
     {
       "goal": "Normal Floors x{{X}}",
@@ -119,10 +129,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e", "m"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "➡️"
+      "emoji": "➡️",
+      "progressive_ranges": true
     },
     {
       "goal": "Easy floors x{{X}}",
@@ -130,10 +141,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e", "m"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "↘️"
+      "emoji": "↘️",
+      "progressive_ranges": true
     },
     {
       "goal": "Visit {{X}} Vending Machines",
@@ -141,10 +153,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "🛒"
+      "emoji": "🛒",
+      "progressive_ranges": true
     },
     {
       "goal": "Buy {{X}} things from the Vending Machines",
@@ -152,10 +165,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "💵"
+      "emoji": "💵",
+      "progressive_ranges": true
     },
     {
       "goal": "Use your special {{X}} times",
@@ -163,10 +177,11 @@
       "board_categories": ["alterna", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "🥫"
+      "emoji": "🥫",
+      "progressive_ranges": true
     },
     {
       "goal": "Fill Unique Specials {{X}} Gauges",
@@ -174,10 +189,11 @@
       "board_categories": ["alterna", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "💯🦸"
+      "emoji": "💯🦸",
+      "progressive_ranges": true
     },
     {
       "goal": "Find {{X}} Unique Drone Chips",
@@ -185,10 +201,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "⭐🟩"
+      "emoji": "⭐🟩",
+      "progressive_ranges": true
     },
     {
       "goal": "Find {{X}} Unique Lucky Chips",
@@ -196,10 +213,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "⭐🟨"
+      "emoji": "⭐🟨",
+      "progressive_ranges": true
     },
     {
       "goal": "Find {{X}} Unique Mobility Chips",
@@ -207,10 +225,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "⭐🟦"
+      "emoji": "⭐🟦",
+      "progressive_ranges": true
     },
     {
       "goal": "Find {{X}} Unique Range Chips",
@@ -218,10 +237,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "⭐🟧"
+      "emoji": "⭐🟧",
+      "progressive_ranges": true
     },
     {
       "goal": "Find {{X}} Unique Support Chips",
@@ -229,10 +249,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "⭐🟪"
+      "emoji": "⭐🟪",
+      "progressive_ranges": true
     },
     {
       "goal": "Find {{X}} Unique Power Chips",
@@ -240,10 +261,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "⭐🟥"
+      "emoji": "⭐🟥",
+      "progressive_ranges": true
     },
     {
       "goal": "Get {{X}} total Prlz",
@@ -251,10 +273,11 @@
       "board_categories": ["side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "text_color": "#ff0000",
       "tooltip": "BETA",
-      "emoji": "🫧"
+      "emoji": "🫧",
+      "progressive_ranges": true
     },
     {
       "goal": "Splat an Octohopper",
@@ -1710,7 +1733,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "Reach floor {{X}} on one climb",
       "text_color": "#ffa6e1",
-      "emoji": "🪜"
+      "emoji": "🪜",
+      "progressive_ranges": true
     },
     {
       "goal": "{{X}} Drone Chips on one climb ",
@@ -1718,10 +1742,11 @@
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Collect {{X}} Drone color-chips on one climb",
       "text_color": "#ffa6e1",
-      "emoji": "🟩"
+      "emoji": "🟩",
+      "progressive_ranges": true
     },
     {
       "goal": "{{X}} Lucky color-chips on one climb",
@@ -1729,10 +1754,11 @@
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "Collect {{X}} Lucky color-chips on one climb",
       "text_color": "#ffa6e1",
-      "emoji": "🟨"
+      "emoji": "🟨",
+      "progressive_ranges": true
     },
     {
       "goal": "{{X}} Mobility color-chips on one climb",
@@ -1740,10 +1766,11 @@
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Collect {{X}} Mobility color-chips on one climb",
       "text_color": "#ffa6e1",
-      "emoji": "🟦"
+      "emoji": "🟦",
+      "progressive_ranges": true
     },
     {
       "goal": "{{X}} Range color-chips on one climb",
@@ -1751,10 +1778,11 @@
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Collect {{X}} Range color-chips on one climb",
       "text_color": "#ffa6e1",
-      "emoji": "🟧"
+      "emoji": "🟧",
+      "progressive_ranges": true
     },
     {
       "goal": "{{X}} Support color-chips on one climb",
@@ -1762,10 +1790,11 @@
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Collect {{X}} Support color-chips on one climb",
       "text_color": "#ffa6e1",
-      "emoji": "🟪"
+      "emoji": "🟪",
+      "progressive_ranges": true
     },
     {
       "goal": "{{X}} Power color-chips on one climb",
@@ -1773,10 +1802,11 @@
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Collect {{X}} Power color-chips on one climb",
       "text_color": "#ffa6e1",
-      "emoji": "🟥"
+      "emoji": "🟥",
+      "progressive_ranges": true
     },
     {
       "goal": "Rigorous floors x{{X}}",
@@ -1784,10 +1814,11 @@
       "board_categories": ["floors", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Beat {{X}} rigorous floors",
       "text_color": "#ffa6e1",
-      "emoji": "💀"
+      "emoji": "💀",
+      "progressive_ranges": true
     },
     {
       "goal": "Danger floors x{{X}}",
@@ -1795,10 +1826,11 @@
       "board_categories": ["floors", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Beat {{X}} danger floors",
       "text_color": "#ffa6e1",
-      "emoji": "⚠️"
+      "emoji": "⚠️",
+      "progressive_ranges": true
     },
     {
       "goal": "Bonus floors x{{X}}",
@@ -1806,10 +1838,11 @@
       "board_categories": ["floors", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Beat {{X}} bonus floors",
       "text_color": "#ffa6e1",
-      "emoji": "✨"
+      "emoji": "✨",
+      "progressive_ranges": true
     },
     {
       "goal": "Protect the zone! x{{X}}",
@@ -1820,7 +1853,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "Beat {{X}} zone floors",
       "text_color": "#ffa6e1",
-      "emoji": "🧱"
+      "emoji": "🧱",
+      "progressive_ranges": true
     },
     {
       "goal": "Defeat the fleeing foe! x{{X}}",
@@ -1828,10 +1862,11 @@
       "board_categories": ["floors", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "Beat {{X}} target floors",
       "text_color": "#ffa6e1",
-      "emoji": "🏃‍♂️"
+      "emoji": "🏃‍♂️",
+      "progressive_ranges": true
     },
     {
       "goal": "Escort the turbine tower! x{{X}}",
@@ -1839,10 +1874,11 @@
       "board_categories": ["floors", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "Beat {{X}} tower floors",
       "text_color": "#ffa6e1",
-      "emoji": "🐌"
+      "emoji": "🐌",
+      "progressive_ranges": true
     },
     {
       "goal": "Destroy the portal! x{{X}}",
@@ -1850,10 +1886,11 @@
       "board_categories": ["floors", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e", "m", "l"],
       "tooltip": "Beat {{X}} portal floors",
       "text_color": "#ffa6e1",
-      "emoji": "⚫"
+      "emoji": "⚫",
+      "progressive_ranges": true
     },
     {
       "goal": "Sink the 8-ball! x{{X}}",
@@ -1861,10 +1898,11 @@
       "board_categories": ["floors", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "Beat {{X}} 8-ball floors",
       "text_color": "#ffa6e1",
-      "emoji": "🎱"
+      "emoji": "🎱",
+      "progressive_ranges": true
     },
     {
       "goal": "Research Towering Nobilmente",
@@ -1872,7 +1910,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 30 Towering Nobilmente and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1883,7 +1921,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 70 Homing Arpeggio and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1894,7 +1932,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 20 Spawning Accordo and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1905,7 +1943,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 70 Gushing Trionfale and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1916,7 +1954,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 70 Springing Spiccato and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1927,7 +1965,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 30 Whirling Accelerando and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1938,7 +1976,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 20 Panicking Alla Mambo and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1949,7 +1987,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 80 Drizzling Capriccioso and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1960,7 +1998,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 50 Portal and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1971,7 +2009,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 200 Battering Lento and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1982,7 +2020,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 1000 Marching Andante and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -1993,7 +2031,7 @@
       "board_categories": ["jelleton_field_guide", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["l", "n"],
       "tooltip": "Defeat 600 Swarming Languendo and unlock Marina's notes on them",
       "text_color": "#ffa6e1",
       "emoji": "🔍"
@@ -2007,7 +2045,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "Use keys to unlock {{X}} lockers",
       "text_color": "#ffa6e1",
-      "emoji": "🔒"
+      "emoji": "🔒",
+      "progressive_ranges": true
     },
     {
       "goal": "Membux Hacks x{{X}}",
@@ -2015,10 +2054,11 @@
       "board_categories": ["hacks", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e", "m", "l"],
       "tooltip": "Unlock {{X}} hacks in the \"Membux\" category",
       "text_color": "#ffa6e1",
-      "emoji": "💻"
+      "emoji": "💻",
+      "progressive_ranges": true
     },
     {
       "goal": "Vending Machines Hacks x{{X}}",
@@ -2026,10 +2066,11 @@
       "board_categories": ["hacks", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Unlock {{X}} hacks in the \"Vending Machines\" category",
       "text_color": "#ffa6e1",
-      "emoji": "💻"
+      "emoji": "💻",
+      "progressive_ranges": true
     },
     {
       "goal": "Enemies Hacks x{{X}}",
@@ -2037,10 +2078,11 @@
       "board_categories": ["hacks", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "tooltip": "Unlock {{X}} hacks in the \"Enemies\" category",
       "text_color": "#ffa6e1",
-      "emoji": "💻"
+      "emoji": "💻",
+      "progressive_ranges": true
     },
     {
       "goal": "Pearl Drone Hacks x{{X}}",
@@ -2048,10 +2090,11 @@
       "board_categories": ["hacks", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "Unlock {{X}} hacks in the \"Pearl Drone\" category",
       "text_color": "#ffa6e1",
-      "emoji": "💻"
+      "emoji": "💻",
+      "progressive_ranges": true
     },
     {
       "goal": "Random Factor Hacks x{{X}}",
@@ -2059,10 +2102,11 @@
       "board_categories": ["hacks", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "Unlock {{X}} hacks in the \"Random Factor\" category",
       "text_color": "#ffa6e1",
-      "emoji": "💻"
+      "emoji": "💻",
+      "progressive_ranges": true
     },
     {
       "goal": "Player Hacks x{{X}}",
@@ -2070,10 +2114,11 @@
       "board_categories": ["hacks", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "Unlock {{X}} hacks in the \"Player\" category",
       "text_color": "#ffa6e1",
-      "emoji": "💻"
+      "emoji": "💻",
+      "progressive_ranges": true
     },
     {
       "goal": "Marina Agitando",
@@ -2081,7 +2126,7 @@
       "board_categories": ["bosses", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e"],
       "tooltip": "Defeat Marina Agitando",
       "text_color": "#ffa6e1",
       "emoji": "🕶️🐙"
@@ -2092,7 +2137,7 @@
       "board_categories": ["bosses", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m"],
       "tooltip": "Defeat Parallel Canon",
       "text_color": "#ffa6e1",
       "emoji": "🤖"
@@ -2103,7 +2148,7 @@
       "board_categories": ["bosses", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m"],
       "tooltip": "Defeat Pinging Marciale",
       "text_color": "#ffa6e1",
       "emoji": "🏐"
@@ -2114,7 +2159,7 @@
       "board_categories": ["bosses", "side_order"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m"],
       "tooltip": "Defeat Asynchronous Rondo",
       "text_color": "#ffa6e1",
       "emoji": "🔁"
