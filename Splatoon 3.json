@@ -15,7 +15,8 @@
       "text_color": "#ff0000",
       "emoji": "⭕🔫",
       "tooltip": "BETA",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Overlorder",
@@ -37,7 +38,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "↔️🦸",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Change your sub weapon {{X}} times",
@@ -49,7 +51,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "↔💣",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Obtain {{X}} Membux in one Climb",
@@ -61,7 +64,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "🪙",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Score {{X}} points in one climb",
@@ -73,7 +77,8 @@
       "tooltip": "BETA",
       "text_color": "#ff0000",
       "emoji": "🐟",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Get a(n) {{X}} long Tone Chain",
@@ -85,7 +90,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "🔗",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Reach floor 10 with {{X}} unique Palettes",
@@ -109,7 +115,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "💪",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Hard Floors x{{X}}",
@@ -133,7 +140,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "➡️",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Easy floors x{{X}}",
@@ -145,7 +153,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "↘️",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Visit {{X}} Vending Machines",
@@ -157,7 +166,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "🛒",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Buy {{X}} things from the Vending Machines",
@@ -169,7 +179,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "💵",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Use your special {{X}} times",
@@ -181,7 +192,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "🥫",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Fill Unique Specials {{X}} Gauges",
@@ -193,7 +205,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "💯🦸",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Find {{X}} Unique Drone Chips",
@@ -205,7 +218,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "⭐🟩",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Find {{X}} Unique Lucky Chips",
@@ -217,7 +231,8 @@
       "tooltip": "BETA",
       "text_color": "#ff0000",
       "emoji": "⭐🟨",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Find {{X}} Unique Mobility Chips",
@@ -229,7 +244,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "⭐🟦",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Find {{X}} Unique Range Chips",
@@ -241,7 +257,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "⭐🟧",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Find {{X}} Unique Support Chips",
@@ -253,7 +270,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "⭐🟪",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Find {{X}} Unique Power Chips",
@@ -265,7 +283,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "⭐🟥",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Get {{X}} total Prlz",
@@ -277,7 +296,8 @@
       "text_color": "#ff0000",
       "tooltip": "BETA",
       "emoji": "🫧",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Splat an Octohopper",
@@ -1734,7 +1754,8 @@
       "tooltip": "Reach floor {{X}} on one climb",
       "text_color": "#ffa6e1",
       "emoji": "🪜",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 5
     },
     {
       "goal": "{{X}} Drone Chips on one climb ",
@@ -1818,7 +1839,8 @@
       "tooltip": "Beat {{X}} rigorous floors",
       "text_color": "#ffa6e1",
       "emoji": "💀",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Danger floors x{{X}}",
@@ -1830,7 +1852,8 @@
       "tooltip": "Beat {{X}} danger floors",
       "text_color": "#ffa6e1",
       "emoji": "⚠️",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Bonus floors x{{X}}",
@@ -1842,7 +1865,8 @@
       "tooltip": "Beat {{X}} bonus floors",
       "text_color": "#ffa6e1",
       "emoji": "✨",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Protect the zone! x{{X}}",
@@ -1854,7 +1878,8 @@
       "tooltip": "Beat {{X}} zone floors",
       "text_color": "#ffa6e1",
       "emoji": "🧱",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Defeat the fleeing foe! x{{X}}",
@@ -1866,7 +1891,8 @@
       "tooltip": "Beat {{X}} target floors",
       "text_color": "#ffa6e1",
       "emoji": "🏃‍♂️",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Escort the turbine tower! x{{X}}",
@@ -1878,7 +1904,8 @@
       "tooltip": "Beat {{X}} tower floors",
       "text_color": "#ffa6e1",
       "emoji": "🐌",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Destroy the portal! x{{X}}",
@@ -1890,7 +1917,8 @@
       "tooltip": "Beat {{X}} portal floors",
       "text_color": "#ffa6e1",
       "emoji": "⚫",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 3
     },
     {
       "goal": "Sink the 8-ball! x{{X}}",
@@ -2046,7 +2074,8 @@
       "tooltip": "Use keys to unlock {{X}} lockers",
       "text_color": "#ffa6e1",
       "emoji": "🔒",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 4
     },
     {
       "goal": "Membux Hacks x{{X}}",
@@ -2058,7 +2087,8 @@
       "tooltip": "Unlock {{X}} hacks in the \"Membux\" category",
       "text_color": "#ffa6e1",
       "emoji": "💻",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Vending Machines Hacks x{{X}}",
@@ -2082,7 +2112,8 @@
       "tooltip": "Unlock {{X}} hacks in the \"Enemies\" category",
       "text_color": "#ffa6e1",
       "emoji": "💻",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Pearl Drone Hacks x{{X}}",
@@ -2094,7 +2125,8 @@
       "tooltip": "Unlock {{X}} hacks in the \"Pearl Drone\" category",
       "text_color": "#ffa6e1",
       "emoji": "💻",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Random Factor Hacks x{{X}}",
@@ -2106,7 +2138,8 @@
       "tooltip": "Unlock {{X}} hacks in the \"Random Factor\" category",
       "text_color": "#ffa6e1",
       "emoji": "💻",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Player Hacks x{{X}}",
@@ -2118,7 +2151,8 @@
       "tooltip": "Unlock {{X}} hacks in the \"Player\" category",
       "text_color": "#ffa6e1",
       "emoji": "💻",
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "individual_limit": 2
     },
     {
       "goal": "Marina Agitando",
